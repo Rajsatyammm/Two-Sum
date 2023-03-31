@@ -14,10 +14,6 @@ public class PairSum {
             } else {
                 Rp--;
             }
-
-            // if(list.get(Lp) + list.get(Rp) > target) {
-            //     Rp--;
-            // }
         }
         return false;
     }
